@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@cdktf/provider-null": "npm:@cdktf/provider-null@^10.0.0",
+    "cdktf": "npm:cdktf@^0.20.8",
+    "constructs": "npm:constructs@^10.3.0"
+  }
+}
