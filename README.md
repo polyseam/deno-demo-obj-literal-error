@@ -1,5 +1,7 @@
 # Demonstrate Change to Deno Syntax Validation
 
+## Resolved in Deno v1.45.0 ✅
+
 We've discovered a destructive change in how typescript code is validated in
 [deno](https://github.com/denoland/deno).
 
